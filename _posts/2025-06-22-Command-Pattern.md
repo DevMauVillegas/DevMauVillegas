@@ -1,6 +1,13 @@
-# Command Pattern
-
-[<>][Scripted list](https://www.notion.so/Scripted-list-1bf869b77ec380769708ee53d32cf11f?pvs=21)
+---
+title: "Patterns: Command"
+categories:
+  - Game Programming Patterns
+  - Learning Content
+tags:
+  - GameProgramming Patterns
+  - Educational
+  - Learning Content
+---
 
 ## Book Definition
 
