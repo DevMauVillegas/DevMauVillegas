@@ -10,7 +10,7 @@ author_profile: true
 
 Created: January 19, 2025 4:21 PM
 
-![image.png](image.png)
+![image.png](/assets/images/cv-image.png)
 
 ## Martin Villegas Garcia
 
