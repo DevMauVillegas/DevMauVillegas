@@ -14,21 +14,6 @@ author_profile: true
 
 ---
 
-Career summary
-
-Experienced in developing gameplay logic with Unreal C++, creating game tools in Unity C#, and building backend services in Go. I have worked on various games across different platforms and development stages.
-
-From patching live operations to improving service architecture for pre-launch titles. I am dedicated to continuous learning and constantly strive to enhance the quality of my work.
-
-FORMAL EDUCATION
-
-- AD, Programming Technician
-    - Epet N° 20 Neuquen, Argentina.
-- Computer Science. Incomplete Degree
-    - UNC, FaMAF, Cordoba, Argentina.
-
----
-
 # Career History
 
 ### April 2023
@@ -101,25 +86,24 @@ Dec 2021
 
 ---
 
+Career summary
+
+Experienced in developing gameplay logic with Unreal C++, creating game tools in Unity C#, and building backend services in Go. I have worked on various games across different platforms and development stages.
+
+From patching live operations to improving service architecture for pre-launch titles. I am dedicated to continuous learning and constantly strive to enhance the quality of my work.
+
+FORMAL EDUCATION
+
+- AD, Programming Technician
+    - Epet N° 20 Neuquen, Argentina.
+- Computer Science. Incomplete Degree
+    - UNC, FaMAF, Cordoba, Argentina.
+
 # Skills
 
-Hard Skills
-
-- C++
-- Unreal Engine
-- Gameplay Programming
-- Unreal Visual Scripting
-
-Soft Skills
-
-- Fast learner
-- Proactive
-- Communicative
-- Honest
-
-Other Skills
-
-- Perforce
-- Git
-- Scrum
-- Agile
+| **Hard Skills**                 | **Soft Skills**       | **Other Skills**     |
+| :-------                        | :--------             | :-------             |
+| C++                             | Fast learner          | Perforce             |
+| Unreal Engine                   | Proactive             | Git                  |
+| Gameplay Programming            | Communicative         | Scrum                |
+| Unreal Visual Scripting         | Honest                | Agile                |
