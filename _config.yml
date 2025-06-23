@@ -96,6 +96,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-documentation:
-  type: liquid
-  path: /documentation/
