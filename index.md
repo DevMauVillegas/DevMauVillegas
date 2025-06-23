@@ -6,10 +6,6 @@ layout: single
 author_profile: true
 ---
 
-# Curriculum
-
-Created: January 19, 2025 4:21 PM
-
 ![image.png](/assets/images/cv-image.png)
 
 ## Martin Villegas Garcia
